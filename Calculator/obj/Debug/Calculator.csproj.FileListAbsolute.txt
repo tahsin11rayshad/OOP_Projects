@@ -1,0 +1,22 @@
+E:\Visual Studio\Lab-02\Calculator\bin\Debug\Calculator.exe.config
+E:\Visual Studio\Lab-02\Calculator\bin\Debug\Calculator.exe
+E:\Visual Studio\Lab-02\Calculator\bin\Debug\Calculator.pdb
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.exe
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.pdb
+E:\Visual Studio\Lab-02\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Visual Studio\OOP Projects\Calculator\bin\Debug\Calculator.exe.config
+E:\Visual Studio\OOP Projects\Calculator\bin\Debug\Calculator.exe
+E:\Visual Studio\OOP Projects\Calculator\bin\Debug\Calculator.pdb
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.exe
+E:\Visual Studio\OOP Projects\Calculator\obj\Debug\Calculator.pdb
